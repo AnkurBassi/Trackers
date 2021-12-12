@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+!pretrained_models/
+pretrained_models/*
+!results/
+results/*
+!sequences/
+sequences/*
