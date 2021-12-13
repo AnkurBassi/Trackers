@@ -14,7 +14,7 @@ Details on data preprocessing can be found in the file `p1_otb100_preprocessing.
 ### OpenCV Trackers
 The pretrained models and all the image files are stored in Google Drive: https://drive.google.com/drive/folders/1qgGQRJDDN9GVaOx3iU4-4hp8T0PKYsE_?usp=sharing
 
-Download and unzip the zip files `pretrained_models.zip`, `results.zip`, `sequences.zip` in order to run the following Python files.
+Download and unzip `pretrained_models.zip`, `results.zip`, `sequences.zip` in order to run the following Python files.
 
 `p2_1_opencv_tracking.py` contains a class called Tracking that can perform object tracking given an OpenCV tracker name and a sequence name. <br>
 
